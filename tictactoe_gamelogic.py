@@ -17,7 +17,6 @@ def initial_state():
     1   [EMPTY, EMPTY, EMPTY]
     2   [EMPTY, EMPTY, EMPTY]
     """
-
     return [[EMPTY]*3 for _ in range(3)]
 
 
