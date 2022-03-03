@@ -18,9 +18,7 @@ def initial_state():
     2   [EMPTY, EMPTY, EMPTY]
     """
 
-    return [[EMPTY, EMPTY, EMPTY],
-            [EMPTY, EMPTY, EMPTY],
-            [EMPTY, EMPTY, EMPTY]]
+    return [[EMPTY]*3 for _ in range(3)]
 
 
 def player(board) -> str:
