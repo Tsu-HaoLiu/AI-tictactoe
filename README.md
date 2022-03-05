@@ -10,9 +10,10 @@ AI driven Tic-Tac-Toe game that runs on the Minimax algorithm with Alpha-Beta Pr
 
 ## Usage
 
+```python
 pip3 install -r requirements.txt
 python3 tictactoe.py
-
+```
 
 ## Releases
 
