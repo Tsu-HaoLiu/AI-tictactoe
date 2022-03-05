@@ -14,7 +14,7 @@ This is done by using the **Minimax algorithm** with **Alpha-Beta Pruning** to i
 
 ## Usage
 
-```cli
+```
 pip3 install -r requirements.txt
 python3 tictactoe.py
 ```
