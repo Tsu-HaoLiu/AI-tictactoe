@@ -9,7 +9,7 @@ AI driven Tic-Tac-Toe game that runs on the Minimax algorithm with Alpha-Beta Pr
 
 Tic-tac-toe is a paper-and-pencil game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner. It is a solved game, with a forced draw assuming best play from both players. In this project, you will be battling against an AI opponent!
 
-This is done by using the **Minimax algorithm** with **Alpha-Beta Pruning** to increase efficiency. With the Minimax algorithm, the artificial intelligent opponent will look at all possible moves and determines the best possible move to make.
+This is done by using the **Minimax algorithm** with **Alpha-Beta Pruning** to increase efficiency. With the Minimax algorithm, the artificial intelligent opponent will look at all possible moves and determine the next best possible move to make.
 
 
 ## Usage
